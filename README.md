@@ -6,13 +6,14 @@ I am a full stack developer with experience with in both frontend and backend pr
 
 ### Some of the technologies I use include :mechanical_arm: : 
 * Python
+* Javascript
 * Django
 * React
 * JQuery
 * Html, Css, Bootstrap
 * Machine learning algorithms
 * Docker
-* SQL, LMDB
+* SQL, LMDB, Postgres
 
 ### About me :eyes: :
 * I am currently a contributor to the grassroots economics open source project about Community Inclusion Currencies
